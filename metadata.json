@@ -1,0 +1,8 @@
+{
+  "name": "MoneyTrail",
+  "description": "A comprehensive personal finance application designed for mobile-first use. It features family sharing, intelligent transaction processing with Gemini AI, financial summaries, and goal tracking, all powered by React and Firebase.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
